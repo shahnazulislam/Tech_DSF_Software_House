@@ -1,0 +1,129 @@
+/* custom css start */
+
+.active_cs:hover{
+    background-color:#FFFFFF ;
+    color: rgb(13, 4, 97);
+}
+.active_cs{
+    background-color: #284481;
+    color: #8d1ad4;
+}
+
+.active_bg{
+    background-color: #8d1ad4;
+}
+
+.container_cs{
+    width: 98%;
+    margin: 0 auto;
+}
+/* custom css end */
+
+
+.nav_cs{
+    background: #210035;
+}
+.nav_btn_cs{
+    background: #8d1ad4;
+
+}
+
+/* swiper stayle */
+.swiper-slide img{
+    width: 100%;
+    height: 70vh;
+}
+
+/*=================
+ tiket body start 
+==================*/
+.ticket_body{
+    background: #210035;
+    background-size: cover;
+    padding-bottom: 40px;
+    color: #FFFFFF;
+}
+
+.select_cs{
+    background:#210035;
+    color: #FFFFFF;
+}
+.movie_ban_cs{
+    height: 310px;
+}
+
+.movie_ban_cs img{
+    position: absolute;
+    height: 300px;
+}
+.movie_ban_cs input{
+    background-color: #8d1ad4;
+    color: #FFFFFF;
+    position: relative;
+    top: 0;
+    left: 0;
+    
+}
+
+
+.var_line{
+    height: 2px;
+    width: 130px;
+    background-color: #FFFFFF;
+}
+.var_line_1{
+    height: 2px;
+    width: 165px;
+    background-color: #FFFFFF;
+}
+.var_line_2{
+    height: 2px;
+    width: 40px;
+    background-color: #FFFFFF;
+}
+
+.var_line_3{
+    height: 2px;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+.btn_style{
+    outline: none;
+    background: transparent;
+    border: 1px solid #fff;
+}
+.justify-content-end{
+    justify-content: end;
+}
+
+/* student reword start */
+.student_re_cs input{
+    background: transparent;
+    outline-style: solid #fff;
+    color: wheat;
+    border-radius: 20px;
+}
+.active_input{
+    background: #8d1ad4;
+  color: white;
+  border-radius: 20px;
+}
+
+
+
+
+/*=================
+ tiket body end 
+==================*/
+
+
+/* footer part start */
+.cs_footer{
+    background-color: #270E36;
+}
+.btn_cs{
+ background-color: #8d1ad4;
+ width: ;
+}
+/* footer part end */
